@@ -1,0 +1,1 @@
+C:\Users\User\source\repos\MeuPrimeiroAppMaui\MeuPrimeiroAppMaui\MeuPrimeiroAppMaui.csproj;x64
